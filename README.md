@@ -1,9 +1,11 @@
 # gnosh-old
 
 **Nobody may use this repository, or any code in it or in its history, for any
-purpose.** It is kept public only as an educational record of how the earlier
-gnosh was built. Do not build, run, copy, modify, deploy or redistribute it, and
-do not offer it, or anything made from it, as a product or a service.
+purpose except their own personal education** (see [LICENSE.md](LICENSE.md)).
+It is kept public only as an educational record of how the earlier gnosh was
+built. Beyond reading it, and building, running and changing it on your own
+computer to learn from it, do not use, copy, deploy or redistribute it, and do
+not offer it, or anything made from it, as a product or a service.
 
 The earlier gnosh was a fork of Charm's [Crush](https://github.com/charmbracelet/crush).
 Crush's code, and every part of this repository derived from it, stays under
